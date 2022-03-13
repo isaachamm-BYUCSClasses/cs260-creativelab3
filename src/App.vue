@@ -7,7 +7,7 @@
     </nav>
     <router-view/>
     <div class="footer">
-      <h3>You can see my source code: <a href="">here</a></h3>
+      <h3>You can see my source code: <a href="https://github.com/isaachamm/cs260-creativelab3">here</a></h3>
     </div>
   </div>
 </template>
